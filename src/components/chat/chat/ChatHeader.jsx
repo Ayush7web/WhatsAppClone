@@ -7,7 +7,7 @@ import { AccountContext } from "../../../context/AccountProvider";
 import { defaultProfilePicture } from "../../../constants/data";
 
 const Header = styled(Box)`
-  height: 44px;
+  height:40px;
   background: #ededed;
   display: flex;
   padding: 8px 16px;

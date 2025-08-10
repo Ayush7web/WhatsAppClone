@@ -37,7 +37,7 @@ const ClipIcon = styled(AttachFile)`
   transform: "rotate(40deg)";
 `;
 
-const Footer = ({ sendText, value, setValue, setFile, file, setImage }) => {
+const Footer = ({ sendText, value, setValue,file, setFile, setImage }) => {
   useEffect(() => {
     const getImage = async () => {
       if (file) {

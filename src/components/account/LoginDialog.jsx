@@ -16,9 +16,9 @@ const Container = styled(Box)`
 `;
 
 const QRCOde = styled("img")({
-  margin: "50px 0 0 50px",
-  height: 264,
-  width: 264,
+  margin: "50px 0 0 20px",
+  height: 254,
+  width: 255,
 });
 
 const Title = styled(Typography)`

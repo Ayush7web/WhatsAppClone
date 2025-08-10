@@ -24,14 +24,14 @@ const RightComponent = styled(Box)`
 `;
 
 const dialogStyle = {
-  height: "95%",
+  height: "150%",
   width: "100%",
   margin: "20px",
   maxWidth: "100%",
   maxHeight: "100%",
   borderRadius: 0,
   boxShadow: "none",
-  overflow: "hidden",
+  // overflow: "hidden",
 };
 
 const ChatDialog = () => {

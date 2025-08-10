@@ -1,3 +1,6 @@
+export const clientId =
+  "1051426514050-dv0o9fu9umand32ov9iqcamvuf9gttta.apps.googleusercontent.com";
+
 export const iconPDF =
   "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Pdf_File_Type_Adobe_logo_logos-512.png";
 export const defaultProfilePicture =
@@ -8,9 +11,3 @@ export const qrCodeImage =
   "https://www.ginifab.com/feeds/qr_code/img/qrcode.jpg";
 export const emptyProfilePicture =
   "https://www.kindpng.com/picc/m/78-785827_user-profile-avatar-login-account-male-user-icon.png";
-
-export const whatsAppIcon =
-  "https://png.pngtree.com/element_our/md/20180626/md_5b321c98efaa6.jpg";
-
-export const myPic =
-  "https://static.vecteezy.com/system/resources/thumbnails/002/227/847/small_2x/programmer-computer-expert-black-linear-icon-vector.jpg";

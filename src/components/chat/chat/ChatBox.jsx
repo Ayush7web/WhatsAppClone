@@ -24,7 +24,7 @@ const ChatBox = () => {
       setConversation(data);
     };
     getConversationDetails();
-  }, [person.sub, account.sub]); // ✅ Added account.sub in deps
+  }, [person.sub, account.sub]); 
 
   return (
     <Box style={{ height: "75%" }}>
